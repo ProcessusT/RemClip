@@ -14,7 +14,7 @@
 <br />
 <br>
 <div align="center">
-<img src="https://github.com/Processus-Thief/RemClip/raw/main/.assets/background.png" width="80%;">
+<img src="https://raw.githubusercontent.com/Processus-Thief/RemClip/main/.assets/background.PNG" width="80%;">
 </div>
 <br>
 <br />
