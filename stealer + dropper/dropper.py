@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 #
-# Aspyco
-#
 # V 1.0
 #
 # Copyright (C) 2022 Les tutos de Processus. All rights reserved.
@@ -9,8 +7,6 @@
 #
 # Description:
 #   This tool permits to upload a local clipboard stealer through SMB on a remote host.
-#   Then it remotely connects to svcctl named pipe through DCERPC to create
-#   and start the stealer as a service.
 #
 # Author:
 #   Processus (@ProcessusT)
