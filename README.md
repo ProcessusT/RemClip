@@ -1,11 +1,9 @@
-# The RemClip project
-
 <div align="center">
   <br>
   <a href="https://twitter.com/intent/follow?screen_name=ProcessusT" title="Follow"><img src="https://img.shields.io/twitter/follow/ProcessusT?label=ProcessusT&style=social"></a>
   <br>
   <h1>
-    RemClip
+    The RemClip project
   </h1>
   <br><br>
 </div>
